@@ -155,3 +155,11 @@ svg {
 .icon__svg {
 	fill: #ffffff
 }
+
+.btn:hover .icon__svg {
+	fill: #00ffff;
+}
+
+.btn:hover {
+	color: #00ffff;
+}
